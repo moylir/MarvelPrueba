@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personajes Marvel</string>
+    <string name="loadingpages">Cargando páginas</string>
+    <string name="loadingcharacters">Cargando personajes</string>
+    <string name="loadingcharacter">Cargando personaje</string>
+    <string name="nodetail">No existe más detalle para este personaje</string>
+    <string name="noempty">Introduzca al menos un carácter para la búsqueda</string>
+
+</resources>
